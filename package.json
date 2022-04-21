@@ -1,0 +1,9 @@
+{
+  "name": "expense_management_problem",
+  "version": "0.0.1",
+  "description": "A solution to expense sharing in a husehold.",
+  "main": "geektrust.js",
+  "author": "Xeonray",
+  "license": "MIT",
+  "private": false
+}
